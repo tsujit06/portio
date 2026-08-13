@@ -98,11 +98,13 @@ export default function Hero() {
           </a>
 
           <a
-            href="mailto:lbsujith45@gmail.com"
-            className="flex items-center gap-2 px-5 py-3.5 rounded-full bg-[#f8f8f8] hover:bg-[#eaeaea] text-[#7B7B7B] hover:text-[#222222] border border-[#e5e5e5] font-mono text-xs transition-all"
+            href="https://drive.google.com/file/d/1Z_3-Xkgq5qMGgPocsRUsbkKXRX1EpO7P/view?usp=sharing"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="flex items-center gap-2 px-5 py-3.5 rounded-full bg-[#f8f8f8] hover:bg-[#eaeaea] text-[#7B7B7B] hover:text-[#222222] border border-[#e5e5e5] font-mono text-xs transition-all hover:scale-105 active:scale-95"
           >
             <Download className="w-3.5 h-3.5 text-[#222222]" />
-            <span>Resume Request</span>
+            <span>Resume</span>
           </a>
         </motion.div>
 
